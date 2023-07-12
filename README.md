@@ -1,4 +1,4 @@
-# CS105 - 
+# CS105 - Thông tin thành viên
 Nguyễn Hoàng Long - 20520239
 
 Lê Duy Hiệp - 20520993
