@@ -1,4 +1,7 @@
-# CS105
+# CS105 - 
+Nguyễn Hoàng Long - 20520239
+
+Lê Duy Hiệp - 20520993
 # Hướng dẫn sử dụng và chạy trang web
 `npm install --save three`
 
