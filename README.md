@@ -12,4 +12,5 @@ Lê Duy Hiệp - 20520993
 `parcel main.html`
 và dùng `parcel main2.html` để chạy trang web thứ hai
 # File báo cáo nằm trong thư mục Report
+[Report](report/Report.docx)
 # Video Demo
